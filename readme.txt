@@ -3,3 +3,4 @@ branchB
 commitA
 commitB
 commitC
+test
